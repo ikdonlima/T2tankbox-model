@@ -1,0 +1,92 @@
+#turet {
+  width: 200px;
+  height: 60px;
+  border: solid 4px;
+  border-radius: 100px;
+  background-image: url("kaki.jpg");
+  margin-left: 400px;
+}
+#canon {
+  width: 250px;
+  height: 10px;
+  border: solid;
+  background: radial-gradient(brown, black, green);
+  margin-left: 605px;
+  margin-top: -45px
+}
+p {
+  font-weight: bold;
+  font-size: 30px;
+  color: darkgreen;
+  text-align: center;
+}
+#body {
+  width: 430px;
+  height: 50px;
+  border: solid 5px;
+  margin-left: 300px;
+  margin-top: 25px;
+  border-radius: 30px;
+  background-image: url("kaki.jpg");
+}
+.small {
+  width: 20px;
+  height: 20px;
+  border: solid;
+  border-radius: 20px;
+  background: radial-gradient(brown, black, green);
+  margin-left: 318px;
+}
+.midle {
+  width: 50px;
+  height: 50px;
+  border: solid;
+  border-radius: 50px;
+  background: radial-gradient(brown, black, green);
+  margin-left: 340px;
+}
+#wheel2 {
+  margin-left: 393px;
+  margin-top: -26px;
+}
+#wheel3 {
+  margin-left: 469px;
+  margin-top: -26px;
+}
+#wheel4 {
+  margin-left: 545px;
+  margin-top: -26px;
+}
+#wheel5 {
+  margin-left: 621px;
+  margin-top: -26px;
+}
+#wheel6 {
+  margin-top: -26px;
+}
+#wheel7 {
+  margin-left: 416px;
+  margin-top: -56px;
+}
+#wheel8 {
+  margin-left: 492px;
+  margin-top: -56px
+}
+#wheel9 {
+  margin-left: 568px;
+  margin-top: -56px
+}
+#wheel10 {
+  margin-left: 644px;
+  margin-top: -56px;
+}
+#wheel11 {
+  margin-left: 697px;
+  margin-top: -56px
+}
+
+
+
+  
+</body>
+</html>
